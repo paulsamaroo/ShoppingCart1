@@ -20,6 +20,7 @@ import com.android.tonyvu.sc.util.CartHelper;
 public class ProductActivity extends AppCompatActivity {
     private static final String TAG = "ProductActivity";
 
+TextView paul;
     ImageView ivProductImg;
     TextView tvProductName;
     TextView tvProductDesc;
